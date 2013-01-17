@@ -1,4 +1,4 @@
-package be.uclouvain.referit.entity;
+package org.cejug.referit.entity;
 
 import java.io.Serializable;
 import javax.persistence.Entity;
